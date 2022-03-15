@@ -1,2 +1,2 @@
 # Connect4-AI
-AI created to play a Connect 4
+AI created to play Connect 4
