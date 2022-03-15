@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
@@ -60,6 +61,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 =======
+=======
+>>>>>>> afab282da9d7d2d09e98ba64f832e2fe99a95435
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -189,6 +192,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 >>>>>>> 2
 i164bf0338accf946e14dc5f06669259dcc178ba
 
+=======
+>>>>>>> afab282da9d7d2d09e98ba64f832e2fe99a95435
