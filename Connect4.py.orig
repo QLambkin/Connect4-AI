@@ -697,7 +697,7 @@ turn = 2
 # loop terminates after user selects whether
 # they would like to go first or second
 while turn == 2:
-     for event in pygame.event.get():
+    for event in pygame.event.get():
         # quit if user selects exit
         if event.type == pygame.QUIT:
             sys.exit()
