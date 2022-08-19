@@ -9,4 +9,4 @@ AI created to play a game of Connect 4
 
 ![tester](FrightenedIllinformedHypacrosaurus-mobile.gif)
 
-![](frightenedpt2.mp4)
+![still](frightenedpt2.mp4)
