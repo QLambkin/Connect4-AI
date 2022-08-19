@@ -10,3 +10,5 @@ AI created to play a game of Connect 4
 ![tester](FrightenedIllinformedHypacrosaurus-mobile.gif)
 
 ![still](frightenedpt2.mp4)
+
+![youtube](https://www.youtube.com/watch?v=JBqk2tZpMXY&ab_channel=RDCworld1)
