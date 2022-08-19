@@ -12,3 +12,7 @@ AI created to play a game of Connect 4
 ![still](frightenedpt2.mp4)
 
 ![youtube](https://www.youtube.com/embed/JBqk2tZpMXY)
+
+
+https://user-images.githubusercontent.com/50932070/185720946-c0b367f0-55d4-4224-9f0c-e2fb92d530cf.mp4
+
