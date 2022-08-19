@@ -11,4 +11,4 @@ AI created to play a game of Connect 4
 
 ![still](frightenedpt2.mp4)
 
-![youtube](https://www.youtube.com/watch?v=JBqk2tZpMXY&ab_channel=RDCworld1)
+![youtube](<iframe width="1190" height="669" src="https://www.youtube.com/embed/JBqk2tZpMXY" title="How Hoopers be making Unnecessary Passes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
