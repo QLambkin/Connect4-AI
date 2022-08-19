@@ -8,3 +8,5 @@ AI created to play a game of Connect 4
 ![FrightenedIllinformedHypacrosaurus-mobile](https://user-images.githubusercontent.com/50932070/185716807-61ba4ac1-7f35-47d2-8505-3cd21087565f.gif)
 
 ![tester](FrightenedIllinformedHypacrosaurus-mobile.gif)
+
+frightenedpt2.mp4
