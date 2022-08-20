@@ -3,16 +3,12 @@ AI created to play a game of Connect 4
 
 ![Demo Picture](https://github.com/QLambkin/Connect4-AI/blob/main/images/Connect4.jpg)
 
-![video](https://github.com/QLambkin/Connect4-AI/blob/main/images/pygame%20window%202022-08-16%2016-28-57.mp4)
 
-![FrightenedIllinformedHypacrosaurus-mobile](https://user-images.githubusercontent.com/50932070/185716807-61ba4ac1-7f35-47d2-8505-3cd21087565f.gif)
-
-![tester](FrightenedIllinformedHypacrosaurus-mobile.gif)
-
-![still](frightenedpt2.mp4)
-
-![youtube](https://www.youtube.com/embed/JBqk2tZpMXY)
+https://user-images.githubusercontent.com/50932070/185721234-bc23b8b3-2cd9-46a8-a737-af716ca1e5c1.mp4
 
 
-https://user-images.githubusercontent.com/50932070/185720946-c0b367f0-55d4-4224-9f0c-e2fb92d530cf.mp4
+https://user-images.githubusercontent.com/50932070/185721621-19f1e0a4-5eb9-4987-ad4b-39982ed23f97.mp4
+
+
+https://user-images.githubusercontent.com/50932070/185721679-ff301f37-2e35-4ef8-bef0-66393fe24699.mp4
 
